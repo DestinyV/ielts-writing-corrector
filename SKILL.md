@@ -1,5 +1,6 @@
 ---
 name: ielts-writing-corrector
+version: 2.1.0
 description: 专业雅思写作批改与评分技能。当用户提交雅思作文（Task 1 图表/书信 或 Task 2 议论文）、请求写作批改、雅思分数评估、写作反馈、或提到 IELTS writing/雅思写作/雅思作文 时触发。支持直接粘贴文本、粘贴 URL 链接、指向本地文件（.md/.txt/.docx/.pdf/图片）等多种输入方式。提供基于官方四项评分标准的逐项 0-9 分评估、逐段精批、修改建议和范文参考。
 ---
 
