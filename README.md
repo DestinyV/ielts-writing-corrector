@@ -2,7 +2,7 @@
 
 > 专业雅思写作批改 ZCode Skill — 基于官方四项评分标准，0-9 分精确评估
 
-[![Skill Version](https://img.shields.io/badge/version-2.0-blue)](./SKILL.md)
+[![Skill Version](https://img.shields.io/badge/version-1.0-blue)](./SKILL.md)
 [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 [![Lines](https://img.shields.io/badge/SKILL.md-254_lines-lightgrey)](./SKILL.md)
 
